@@ -1,6 +1,6 @@
 {
   "name": "@valcosmos/react18-template",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "valcosmos cli react18 template",
   "main": "index.js",
   "scripts": {
